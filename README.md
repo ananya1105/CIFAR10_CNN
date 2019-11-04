@@ -15,3 +15,4 @@ We have created a function one hot encoder that returns two dimensional tensor.
 CIFAR10 provides 10 different classes of image.
 
 
+Note : This project is currently on hold.
